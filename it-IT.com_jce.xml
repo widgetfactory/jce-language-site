@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install version="2.0" type="language" core="1">
+	<name>Italian(Italy)</name>
+	<tag>it-IT</tag>
+	<version>2.3.0</version>
+	<creationDate>8 December 2012</creationDate>
+	<author>Matteo Vicini (conversion and new strings translation) and neoxes (2.2.4 source ported)</author>
+	<authorEmail>ermejoo3@gmail.com</authorEmail>
+	<authorUrl>https://plus.google.com/104235829819528805196/</authorUrl>
+	<copyright>Copyright (C) 2006 - 2012 Ryan Demmer. All rights reserved</copyright>
+	<license>GNU/GPL Version 2 or later - http://www.gnu.org/licenses/gpl-2.0.html</license>
+	<description>Italian(Italy) language pack for JCE 2.3.x</description>
+	<site folder="language/it-IT">
+		<file>it-IT.com_jce.ini</file>
+		<!-- // Subscription plugin language files //-->
+		<file>it-IT.com_jce_caption.ini</file>
+		<file>it-IT.com_jce_emotions.ini</file>
+		<file>it-IT.com_jce_filemanager.ini</file>
+		<file>it-IT.com_jce_fullpage.ini</file>
+		<file>it-IT.com_jce_iframe.ini</file>
+		<file>it-IT.com_jce_imgmanager_ext.ini</file>
+		<file>it-IT.com_jce_mediamanager.ini</file>
+		<file>it-IT.com_jce_templatemanager.ini</file>
+	</site>
+	<administration folder="administrator/language/it-IT">
+		<file>it-IT.com_jce.ini</file>
+		<file>it-IT.com_jce.menu.ini</file>
+		<file>it-IT.com_jce.sys.ini</file>
+		<file>it-IT.plg_editors_jce.ini</file>
+		<file>it-IT.plg_editors_jce.sys.ini</file>
+		<file>it-IT.plg_quickicon_jcefilebrowser.ini</file>
+		<file>it-IT.plg_quickicon_jcefilebrowser.sys.ini</file>
+		<!-- // Optional plugin language files // -->
+		<file>it-IT.plg_system_jcemediabox.ini</file>
+		<file>it-IT.plg_system_jcemediabox.sys.ini</file>
+	</administration>
+</install>
